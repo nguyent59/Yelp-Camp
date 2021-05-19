@@ -19,3 +19,8 @@ They will open those files through VSC (Visual Studio Code) <br>
 
 <h1> Result </h1>
 
+<img src="/images/Screen Shot 2021-05-19 at 2.04.52 PM.png"
+     alt="result" width="500px" heigth="1000px">
+
+<img src="/images/Screen Shot 2021-05-19 at 2.05.33 PM.png"
+     alt="result" width="500px" heigth="1000px">
