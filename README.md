@@ -15,6 +15,7 @@ process of this project. <br>
 
 The user need to do the pull request to have all files in their laptop <br>
 Install any npm package from https://www.npmjs.com/ which they need and install the package of json. <br>
+The user need to create a files name ".env" which included the keys of CLOUDINARY where the user can save the data, include MAPBOX_TOKEN for maps,and include DB_URL of MongoDB <br>
 They will open those files through VSC (Visual Studio Code) <br>
 
 <h1> Result </h1>
